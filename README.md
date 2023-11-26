@@ -6,10 +6,10 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>  Robotics - G16 </h2>
+  <h2>  Robotics - G2 </h2>
 </div>
 
-Welcome to the SURE Trust G16 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the sixteenth batch of training Robotics Training course.
+Welcome to the SURE Trust G2 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the sixteenth batch of training Robotics Training course.
 
 ## About SURE Trust
 
@@ -24,7 +24,7 @@ To enroll in the Robotics, please visit the official SURE Trust website: [Course
 
 ## Repository Description
 
-This repository is designed to support the G16 Robotics program at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G2 Robotics program at SURE Trust. It follows the below mentioned organization structure:
 
 - *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
 - *Final Project*: A comprehensive compilation of code files and resources of the final projects.
