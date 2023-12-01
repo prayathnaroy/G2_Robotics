@@ -9,7 +9,7 @@
   <h2>  Robotics - G2 </h2>
 </div>
 
-Welcome to the SURE Trust G2 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the sixteenth batch of training Robotics Training course.
+Welcome to the SURE Trust G2 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training Robotics Training course.
 
 ## About SURE Trust
 
