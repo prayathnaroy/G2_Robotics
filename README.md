@@ -9,7 +9,7 @@
   <h2>  Robotics - G2 </h2>
 </div>
 
-Welcome to the SURE Trust G2 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training Robotics Training course.
+Welcome to the SURE Trust G2 Robotics Training repository. This repository serves as a central hub for all materials and resources related to the training course during the twenty seventh batch of training Robotics Training course.
 
 ## About SURE Trust
 
@@ -19,8 +19,9 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Robotics, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
-
-
+|StudentName | link|
+|------------|------|
+|PRAYATHNA|[Click here](https://github.com/sure-trust/G2_Robotics/blob/main/Course%20Report/prayathna%20royal.md)|
 
 ## Repository Description
 
