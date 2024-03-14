@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [Prayathna Royal]
+## Name: Prayathna Royal
 
-## Qualifications: [pursuing 4th year btech]
+## Qualifications: pursuing 4th year btech
 
-Welcome to the course report for the [Robotics Foundation Course]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Robotics Foundation Course! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                                                       | Link                                    |
 |-------------------------------------------                         |-----------------------------------------|
 | Mini Projects: [Case study on drones as a application of robotics]     | [click here](https://github.com/prayathnaroy/G2_Robotics/tree/main/Mini%20Projects/Prayathna)|
-| Final Project: [designed a drone used for surveying and mapping]     | [click here]  (https://github.com/prayathnaroy/G2_Robotics/tree/main/Final%20Capstone%20Projects/Prayathna)                       |
+| Final Project: [designed a drone used for surveying and mapping]     | [click here](https://github.com/prayathnaroy/G2_Robotics/tree/main/Final%20Capstone%20Projects/Prayathna)                       |
